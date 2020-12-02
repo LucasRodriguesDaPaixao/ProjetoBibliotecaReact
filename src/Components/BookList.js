@@ -10,7 +10,7 @@ function BookList({book, navigation}){
               navigation.navigate("BookDetails", {person});
             }} key={Autor}>
               <View style={styles.container}>                  
-                  <Text style={styles.text}>{`${Autor} ${Título}`}</Text>
+                  <Text style={styles.text}>{`${Título}`}</Text>
               </View>
             </TouchableHighlight>
           )
