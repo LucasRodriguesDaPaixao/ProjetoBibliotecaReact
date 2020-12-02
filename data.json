@@ -1,0 +1,78 @@
+{
+  "nome": [
+    {
+      "id": 1,
+      "nome": "Gustavo Balbino de Sousa",
+      "email": "gusta9201@gmail.com",
+      "senha": "12345"
+    },
+    {
+      "email": "guto9201@gmail.com",
+      "senha": "123456789",
+      "id": 2
+    },
+    {
+      "email": "guto9201@gmail.com",
+      "senha": "123456789",
+      "id": 3
+    },
+    {
+      "email": "gaga6192@gmail.com",
+      "senha": "1234567",
+      "id": 4
+    },
+    {
+      "email": "balbi6454@gmail.com",
+      "senha": "12345678",
+      "id": 5
+    },
+    {
+      "email": "bruno12@gmail.com",
+      "senha": "12345",
+      "id": 6
+    },
+    {
+      "email": "guiba123@gmail.com",
+      "senha": "123456",
+      "id": 7
+    },
+    {
+      "email": "gab1234@gmail.com",
+      "senha": "12345678",
+      "id": 8
+    },
+    {
+      "email": "jhow1253@gmail.com",
+      "senha": "12345678",
+      "id": 9
+    },
+    {
+      "email": "luis43@gmail.com",
+      "senha": "1234567",
+      "id": 10
+    },
+    {
+      "email": "fabio@2323gmail.com",
+      "senha": "12345678",
+      "id": 11
+    },
+    {
+      "email": "fabin4242@gmail.com",
+      "senha": "12345678",
+      "id": 12
+    },
+    {
+      "email": "ygor7676@gmail.com",
+      "senha": "123456",
+      "id": 13
+    },
+    {
+      "email": "joana123@gmail.com",
+      "senha": "123456",
+      "id": 14
+    }
+  ],
+  "grade": [],
+  "book": [],
+  "teste": []
+}
